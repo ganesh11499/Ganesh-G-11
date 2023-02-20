@@ -1,0 +1,19 @@
+.container {
+    width: 80%;
+   margin-left: 10%;
+}
+
+img{
+   position: relative;
+   width: 80%;
+   height: 90vh; 
+}
+.content {
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    color: white;
+    margin-left:5% ;
+    font-weight: 700;
+    text-align: justify;
+}
